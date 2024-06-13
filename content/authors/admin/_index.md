@@ -169,4 +169,4 @@ languages:
 
 ## About Me
 
-Cheng Hsuan Yen is a Economics PhD student at OSU. His research interests include the economics about education, gender, and family.
+Cheng Hsuan Yen is an Economics PhD student at OSU. His research interests include the economics of education, gender, and family.
