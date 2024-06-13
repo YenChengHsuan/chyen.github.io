@@ -20,18 +20,16 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Current Economics Ph.D. Student at OSU
+role: Ph.D. Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Department of Economics at OSU
+  - name: Department of Economics, OSU
     url: https://economics.osu.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: cv
-    url: https://drive.google.com/file/d/12Pjwf1KJfKu6sLqRFuTXvbLK7wbX8kpf/view?usp=sharing
   - icon: at-symbol
     url: 'mailto:yen.177@osu.edu'
     label: E-mail Me
