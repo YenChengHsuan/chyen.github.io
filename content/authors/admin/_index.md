@@ -113,11 +113,11 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: English
-        description: ""
+        description: ''
         percent: 100
         icon: academicons/academia
       - name: Mandarin
-        description: ""
+        description: ''
         percent: 100
         icon: hero/language
 
