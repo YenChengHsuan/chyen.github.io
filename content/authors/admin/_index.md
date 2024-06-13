@@ -93,25 +93,34 @@ work:
 
 # # Skills
 # # Add your own SVG icons to `assets/media/icons/`
-# skills:
-#   - name: Technical Skills
-#     items:
-#       - name: R
-#         description: ''
-#         percent: 80
-#         icon: code-bracket
-#       - name: Python
-#         description: ''
-#         percent: 80
-#         icon: code-bracket        
-#       - name: Data Science
-#         description: ''
-#         percent: 70
-#         icon: chart-bar
-#       - name: Stata
-#         description: ''
-#         percent: 70
-#         icon: circle-stack
+skills:
+  - name: Technical Skills
+    items:
+      - name: R
+        description: ''
+        percent: 90
+        icon: devicon/rstudio
+      - name: Python
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Stata
+        description: ''
+        percent: 70
+        icon: devicon/stata
+  - name: Languages
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: English
+        description: ""
+        percent: 100
+        icon: academicons/academia
+      - name: Mandarin
+        description: ""
+        percent: 100
+        icon: hero/language
+
 #   - name: Hobbies
 #     color: '#eeac02'
 #     color_border: '#f0bf23'
@@ -129,11 +138,11 @@ work:
 #         percent: 80
 #         icon: camera"
 
-languages:
-  - name: English
-    percent: 100
-  - name: Mandarin
-    percent: 100
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: Mandarin
+#     percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
