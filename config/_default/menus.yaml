@@ -8,11 +8,11 @@ main:
     url: uploads/resume.pdf
     weight: 10
   - name: Research
-    url: eesearch/
-    weight: 11
+    url: research/
+    weight: 20
   - name: Experience
     url: experience/
-    weight: 12
+    weight: 30
   # - name: Research
   #   url: /#papers
   #   weight: 11

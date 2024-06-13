@@ -107,7 +107,7 @@ skills:
       - name: Stata
         description: ''
         percent: 70
-        icon: devicon/stata
+        icon: custom/stata
   - name: Languages
     color: '#eeac02'
     color_border: '#f0bf23'
