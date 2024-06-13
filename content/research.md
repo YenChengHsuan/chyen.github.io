@@ -8,16 +8,18 @@ design:
   spacing: '5rem'
 
 # Page sections
-sections:
-  - block: collection
-    content:
-      title: Selected Research
-      text: Upcoming
-      # filters:
-      #   folders:
-      #     - project
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 3
+
+
+# sections:
+#   - block: collection
+#     content:
+#       title: Selected Research
+#       text: Upcoming
+#       # filters:
+#       #   folders:
+#       #     - project
+#     design:
+#       view: article-grid
+#       fill_image: false
+#       columns: 3
 ---
