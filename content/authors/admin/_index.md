@@ -60,6 +60,9 @@ education:
     date_end: 2023-02-28
     summary: |
       GPA: 4.08 / 4.3
+    button:
+      text: 'Department Page'
+      url: 'https://econ.ntu.edu.tw/en/home-en'
 
 work:
   - position: Data Analyst Intern
@@ -109,8 +112,8 @@ skills:
         percent: 70
         icon: custom/stata
   - name: Languages
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    color: '#ba0d36'
+    color_border: '#a20b2f'
     items:
       - name: English
         description: ''
@@ -120,6 +123,10 @@ skills:
         description: ''
         percent: 100
         icon: hero/language
+      - name: Japanese
+        description: ''
+        percent: 30
+        icon: hero/globe-asia-australia
 
 #   - name: Hobbies
 #     color: '#eeac02'
