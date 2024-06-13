@@ -13,9 +13,9 @@ sections:
     content:
       title: Selected Research
       text: Upcoming
-      filters:
-        folders:
-          - project
+      # filters:
+      #   folders:
+      #     - project
     design:
       view: article-grid
       fill_image: false
